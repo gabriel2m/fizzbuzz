@@ -36,4 +36,4 @@ Instalação
 
 Demo
 ---
-  <a href="http://127.0.0.1/" target="_blank">http://127.0.0.1/</a>
+  <a href="https://fizzbuzzgabriel.herokuapp.com/" target="_blank">https://fizzbuzzgabriel.herokuapp.com/</a>
